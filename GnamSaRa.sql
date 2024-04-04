@@ -20,3 +20,7 @@ CREATE TABLE Classifica (
     )
     REFERENCES Consegne
 );
+ù
+
+
+
